@@ -1,0 +1,12 @@
+{
+    "employees":[
+            {
+                "name": "jack",
+                "email": "jack@masai.com",
+                "username": "jack123",
+                "mobile": "9183084569",
+                "description": " Software-Developer" 
+              }
+        
+    ]
+}
